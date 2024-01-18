@@ -1,1 +1,2 @@
-auth_token = "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"
+auth_token = "YOUR API TOKEN"
+# from hugging face
